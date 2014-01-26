@@ -1,0 +1,7 @@
+*.hex
+*.bin
+*.o
+*.elf
+cscope.*
+test_fatfs
+fatfs.img
